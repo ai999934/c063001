@@ -1,4 +1,4 @@
-// from Glibw32
+// External reference http://www.asahi-net.or.jp/~uc3k-ymd/Glib32/glibw32.html DEQ2.CPP, Deq8.cpp
 #include "glibw32.h"
 
 const double PI = 3.141593;
